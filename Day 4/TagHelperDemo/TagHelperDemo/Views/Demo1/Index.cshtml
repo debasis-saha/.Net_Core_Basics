@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Demo on Built In Tag Helpers";
+}
+
+@model LoginViewModel
+
+<h2>Demo on Built In Tag Helpers</h2>
+
+<environment exclude="Staging,Production">
+    <strong>HostingEnvironment.EnvironmentName is Staging or Production</strong>
+</environment>
+<br />
+<environment include="Development">
+    <strong>HostingEnvironment.EnvironmentName is Development</strong>
+</environment>
+
+@*<br />
+<img src="~/images/Image1.jpg" asp-append-version="true" />
+<br />*@
+<div>
+    <h2>Login Form</h2>
+    <div class="row">
+        <form asp-controller="Demo1" asp-action="Login" method="post">
+            <div class="col-lg-6">
+                <div class="row">
+                    <div class="col-lg-4">Email:</div>
+                    <div class="col-lg-8"><input asp-for="Email" /></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">Password:</div>
+                    <div class="col-lg-8"><input asp-for="Password" /></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4"></div>
+                    <div class="col-lg-8"><button type="submit">Register</button></div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

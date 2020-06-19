@@ -1,0 +1,11 @@
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\bin\Debug\netcoreapp2.1\DemoSample.deps.json
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\bin\Debug\netcoreapp2.1\DemoSample.runtimeconfig.json
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\bin\Debug\netcoreapp2.1\DemoSample.runtimeconfig.dev.json
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\bin\Debug\netcoreapp2.1\DemoSample.dll
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\bin\Debug\netcoreapp2.1\DemoSample.pdb
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\obj\Debug\netcoreapp2.1\DemoSample.csprojAssemblyReference.cache
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\obj\Debug\netcoreapp2.1\DemoSample.csproj.CoreCompileInputs.cache
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\obj\Debug\netcoreapp2.1\DemoSample.AssemblyInfoInputs.cache
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\obj\Debug\netcoreapp2.1\DemoSample.AssemblyInfo.cs
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\obj\Debug\netcoreapp2.1\DemoSample.dll
+F:\Project_Work\Events_Session\Asp.Net_Core_Session\Day 1\DemoSample\obj\Debug\netcoreapp2.1\DemoSample.pdb

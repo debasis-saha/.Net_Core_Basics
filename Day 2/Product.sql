@@ -1,0 +1,9 @@
+CREATE TABLE PRODUCTS
+(
+	Id			INT		Identity(1,1),
+	ProductCode	NVARCHAR(20) NOT NULL,
+	ProductName	NVARCHAR(50) NOT NULL,
+	Quantity	Int NOT NULL,
+	CONSTRAINT [PK_Product_Id] PRIMARY KEY CLUSTERED ([Id])
+	
+)

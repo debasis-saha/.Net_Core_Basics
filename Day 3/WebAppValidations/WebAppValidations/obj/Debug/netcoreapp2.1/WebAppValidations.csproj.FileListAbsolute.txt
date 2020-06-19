@@ -1,0 +1,100 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csprojAssemblyReference.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csproj.CoreCompileInputs.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorAssemblyInfo.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorAssemblyInfo.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.AssemblyInfoInputs.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.AssemblyInfo.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.TagHelpers.input.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.TagHelpers.output.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.deps.json
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.runtimeconfig.json
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.runtimeconfig.dev.json
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.Views.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.Views.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorCoreGenerate.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorTargetAssemblyInfo.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorTargetAssemblyInfo.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.Views.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csproj.CopyComplete
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.deps.json
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.runtimeconfig.json
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.runtimeconfig.dev.json
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.dll
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.pdb
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.Views.dll
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.Views.pdb
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csprojAssemblyReference.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csproj.CoreCompileInputs.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorAssemblyInfo.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorAssemblyInfo.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.AssemblyInfoInputs.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.AssemblyInfo.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.TagHelpers.input.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.TagHelpers.output.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorCoreGenerate.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorTargetAssemblyInfo.cache
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorTargetAssemblyInfo.cs
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.Views.pdb
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.dll
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.pdb
+H:\Sample_Rnd_Projects\asp.net_core\WebAppValidations\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csproj.CopyComplete
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.deps.json
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.runtimeconfig.json
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.runtimeconfig.dev.json
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.dll
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.pdb
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.Views.dll
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\bin\Debug\netcoreapp2.1\WebAppValidations.Views.pdb
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csprojAssemblyReference.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csproj.CoreCompileInputs.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorAssemblyInfo.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorAssemblyInfo.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.AssemblyInfoInputs.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.AssemblyInfo.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.TagHelpers.input.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.TagHelpers.output.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorCoreGenerate.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorTargetAssemblyInfo.cache
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.RazorTargetAssemblyInfo.cs
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.Views.pdb
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.dll
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.pdb
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\WebAppValidations.csproj.CopyComplete
+H:\Demo_DotNet\WebAppValidations\WebAppValidations\obj\Debug\netcoreapp2.1\Razor\Views\Account\Message.g.cshtml.cs

@@ -1,0 +1,60 @@
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.csprojAssemblyReference.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.csproj.CoreCompileInputs.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorAssemblyInfo.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.deps.json
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.runtimeconfig.json
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.runtimeconfig.dev.json
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.dll
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.pdb
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.Views.dll
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.Views.pdb
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorAssemblyInfo.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.AssemblyInfoInputs.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.AssemblyInfo.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.TagHelpers.input.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.TagHelpers.output.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorCoreGenerate.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorTargetAssemblyInfo.cache
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorTargetAssemblyInfo.cs
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.Views.pdb
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.dll
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.pdb
+F:\Personal_Code_Work\Events_Session\Asp.Net_Core_Session\Day 5\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.csproj.CopyComplete
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.deps.json
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.runtimeconfig.json
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.runtimeconfig.dev.json
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.dll
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.pdb
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.Views.dll
+H:\Event_Demo\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.2\Middleware.Views.pdb
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.csprojAssemblyReference.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.csproj.CoreCompileInputs.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorAssemblyInfo.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorAssemblyInfo.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.AssemblyInfoInputs.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.AssemblyInfo.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.TagHelpers.input.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.TagHelpers.output.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorCoreGenerate.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorTargetAssemblyInfo.cache
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorTargetAssemblyInfo.cs
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.Views.pdb
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.dll
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.pdb
+H:\Event_Demo\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.2\Middleware.csproj.CopyComplete

@@ -1,0 +1,64 @@
+<div class="row">
+  <div class="page-header">
+    <h1>Product Master Details</h1>
+  </div>
+</div>
+<p>
+  <a [routerLink]="['/product-add']">Create New</a>
+</p>
+<table class="table">
+  <thead>
+    <tr>
+      <th>
+        Product Code
+      </th>
+      <th>
+        Product Name
+      </th>
+      <th>
+        Manufacturer
+      </th>
+      <th>
+        Shipping No
+      </th>
+      <th>
+        Serial No
+      </th>
+      <th>
+        Batch No
+      </th>
+      <th>
+        Price
+      </th>
+      <th>
+        Quantity
+      </th>
+      <th>
+        Create Date
+      </th>
+      <th>
+        Modified Date
+      </th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of productList">
+      <td>{{ item.productCode }}</td>
+      <td>{{ item.productName }}</td>
+      <td>{{ item.manufacturer }}</td>
+      <td>{{ item.shippingNo }}</td>
+      <td>{{ item.serialNo }}</td>
+      <td>{{ item.batchNo }}</td>
+      <td>{{ item.mrp }}</td>
+      <td>{{ item.quantity }}</td>
+      <td>{{ item.createdOn | date:'shortDate'}}</td>
+      <td>{{ item.lastModifiedOn | date:'shortDate'}}</td>
+      <td>
+      <td>
+        <a [routerLink]="['/product-edit/', item.id]">Edit</a> |
+        <a [routerLink]="" (click)="delete(item.id, item.productCode)">Delete</a>
+      </td>
+    </tr>    
+  </tbody>
+</table>

@@ -1,0 +1,11 @@
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csprojAssemblyReference.cache
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csproj.CoreCompileInputs.cache
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfoInputs.cache
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfo.cs
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.deps.json
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.dll
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.pdb
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.dll
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.pdb
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.json
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.dev.json

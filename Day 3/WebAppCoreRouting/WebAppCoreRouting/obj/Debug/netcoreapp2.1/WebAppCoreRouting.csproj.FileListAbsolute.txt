@@ -1,0 +1,70 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.csprojAssemblyReference.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.csproj.CoreCompileInputs.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorAssemblyInfo.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorAssemblyInfo.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.AssemblyInfoInputs.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.AssemblyInfo.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.TagHelpers.input.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.TagHelpers.output.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.deps.json
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.runtimeconfig.json
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.runtimeconfig.dev.json
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.Views.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.Views.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorCoreGenerate.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorTargetAssemblyInfo.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorTargetAssemblyInfo.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.Views.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.csproj.CopyComplete
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.g.cshtml.cs
+C:\Users\Shailendra Chauhan\Desktop\Code\Weekend\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.deps.json
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.runtimeconfig.json
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.runtimeconfig.dev.json
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.dll
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.pdb
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.Views.dll
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\bin\Debug\netcoreapp2.1\WebAppCoreRouting.Views.pdb
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.csprojAssemblyReference.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.csproj.CoreCompileInputs.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorAssemblyInfo.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorAssemblyInfo.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.AssemblyInfoInputs.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.AssemblyInfo.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.TagHelpers.input.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.TagHelpers.output.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorCoreGenerate.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorTargetAssemblyInfo.cache
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.RazorTargetAssemblyInfo.cs
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.Views.pdb
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.dll
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.pdb
+H:\Demo_DotNet\WebAppCoreRouting\WebAppCoreRouting\obj\Debug\netcoreapp2.1\WebAppCoreRouting.csproj.CopyComplete

@@ -1,0 +1,59 @@
+<h2>{{title}}</h2>
+<h4>Product</h4>
+<hr />
+<div class="row">
+  <div class="col-md-4">
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Product Code</label>
+      <div class="col-md-8">
+        <input class="form-control" type="text" [(ngModel)]="modelData.productCode" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Product Name</label>
+      <div class="col-md-8">
+        <input class="form-control" type="text" [(ngModel)]="modelData.productName" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Manufacturer</label>
+      <div class="col-md-8">
+        <input class="form-control" type="text" [(ngModel)]="modelData.manufacturer" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Shipping No</label>
+      <div class="col-md-8">
+        <input class="form-control" type="text" [(ngModel)]="modelData.shippingNo" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Serial No</label>
+      <div class="col-md-8">
+        <input class="form-control" type="number" [(ngModel)]="modelData.serialNo" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Batch No</label>
+      <div class="col-md-8">
+        <input class="form-control" type="text" [(ngModel)]="modelData.batchNo" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Price</label>
+      <div class="col-md-8">
+        <input class="form-control" type="number" [(ngModel)]="modelData.mrp" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class=" control-label col-md-4">Quantity</label>
+      <div class="col-md-8">
+        <input class="form-control" type="number" [(ngModel)]="modelData.quantity" required>
+      </div>
+    </div>
+    <div class="form-group">
+      <button type="submit" class="btn btn-default" (click)="save()">Save</button>
+      <button class="btn" (click)="cancel()">Cancel</button>
+    </div> 
+  </div>
+</div>

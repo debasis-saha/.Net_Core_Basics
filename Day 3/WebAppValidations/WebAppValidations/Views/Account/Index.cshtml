@@ -1,0 +1,79 @@
+﻿@model WebAppValidations.Models.UserViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>User Registration</h2>
+<hr />
+
+<form asp-action="Index" asp-controller="Account" method="post" class="form-horizontal">
+    <div class="form-group">
+        <label class="col-sm-2">Name</label>
+        <div class="col-sm-10">
+            <input type="text" asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">Email</label>
+        <div class="col-sm-10">
+            <input type="text" asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">Password</label>
+        <div class="col-sm-10">
+            <input type="password" asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">Confirm Password</label>
+        <div class="col-sm-10">
+            <input type="password" asp-for="ConfirmPassword" class="form-control" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">Address</label>
+        <div class="col-sm-10">
+            <textarea asp-for="Address" class="form-control"></textarea>
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">Contact</label>
+        <div class="col-sm-10">
+            <input type="text" asp-for="Contact" class="form-control" />
+            <span asp-validation-for="Contact" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">Accept Terms</label>
+        <div class="col-sm-10">
+            <input type="checkbox" asp-for="Terms" />
+            <span asp-validation-for="Terms" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-10 col-sm-offset-2">
+            <input type="submit" value="Registartion" />
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        jQuery.validator.unobtrusive.adapters.add("validatecheckbox", function (options) {
+            // jQuery Validate equates "required" with "mandatory" for checkbox elements
+            if (options.element.tagName.toUpperCase() === "INPUT" && options.element.type.toUpperCase() === "CHECKBOX") {
+                options.rules["required"] = true;
+                if (options.message) {
+                    options.messages["required"] = options.message;
+                }
+            }
+        });
+    </script>
+}
