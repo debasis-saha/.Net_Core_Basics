@@ -1,0 +1,38 @@
+To Check the Version of DotNet Core 
+> dotnet --version
+
+> dotnet --help
+
+> dotnet new --help
+
+> dotnet new mvc --help
+
+To Create a Console appication using CLI
+> dotnet new console
+
+To run the result
+> dotnet run
+
+To see to content of a file 
+> type filename
+> type program.cs
+
+To open the Visual Studio Code for the command prompt
+> code .
+
+----------------------------------------- 
+Web Apps using dotnet
+> dotnet new web -o firstwebapp
+
+
+----------------------------------
+to build your application 
+
+> dotnet build
+
+--------------------------------------
+to publish your applcation
+> dotnet publish
+
+----------------------------------------------------
+
